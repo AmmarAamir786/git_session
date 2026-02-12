@@ -1,1 +1,1 @@
-newly changed file
+newly changed file changed
